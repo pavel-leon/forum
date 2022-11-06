@@ -20,6 +20,7 @@ import telran.java2022.post.dto.NewPostDto;
 import telran.java2022.post.dto.PostDto;
 import telran.java2022.post.service.PostService;
 
+//comment for git 1
 @RestController
 @RequestMapping("/forum")
 @RequiredArgsConstructor
